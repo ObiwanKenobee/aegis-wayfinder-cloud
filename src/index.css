@@ -67,8 +67,6 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
-  }
-
     /* AEGIS Gradients */
     --gradient-primary: linear-gradient(135deg, hsl(215 45% 15%), hsl(215 45% 25%));
     --gradient-accent: linear-gradient(135deg, hsl(42 85% 55%), hsl(42 85% 65%));
